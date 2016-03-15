@@ -1,0 +1,9 @@
+C:\Project SJT\GitHubTest\GitHubTest\bin\Debug\GitHubTest.exe.config
+C:\Project SJT\GitHubTest\GitHubTest\bin\Debug\GitHubTest.exe
+C:\Project SJT\GitHubTest\GitHubTest\bin\Debug\GitHubTest.pdb
+C:\Project SJT\GitHubTest\GitHubTest\obj\Debug\GitHubTest.csprojResolveAssemblyReference.cache
+C:\Project SJT\GitHubTest\GitHubTest\obj\Debug\GitHubTest.Form1.resources
+C:\Project SJT\GitHubTest\GitHubTest\obj\Debug\GitHubTest.Properties.Resources.resources
+C:\Project SJT\GitHubTest\GitHubTest\obj\Debug\GitHubTest.csproj.GenerateResource.Cache
+C:\Project SJT\GitHubTest\GitHubTest\obj\Debug\GitHubTest.exe
+C:\Project SJT\GitHubTest\GitHubTest\obj\Debug\GitHubTest.pdb
